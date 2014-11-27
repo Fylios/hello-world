@@ -8,5 +8,7 @@ $_SESSION['ID'] = "42";
 $id = $_SESSION['ID'];
 
 echo "Answer to the Ultimate Question of Life, the Universe, and Everything ($id)";
+echo "/br";
+echo "($id)";
 
 ?>
